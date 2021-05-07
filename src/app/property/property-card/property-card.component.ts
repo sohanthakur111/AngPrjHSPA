@@ -1,5 +1,5 @@
 import { Component } from "@angular/core";
-
+//do sadd some changes
 @Component({
      selector:'app-property-card',
      templateUrl: 'property-card.component.html',
